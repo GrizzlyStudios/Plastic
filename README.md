@@ -7,4 +7,4 @@ There will be a strong focus on clans/regiments/teams like in the mobile game pi
 
 
 # Current Build Status
-movement system 85%
+movement system 95%
